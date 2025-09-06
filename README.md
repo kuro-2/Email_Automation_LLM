@@ -74,7 +74,7 @@ graph TB
 ### Backend Components
 - **Framework**: Python FastAPI with Pydantic validation
 - **Database**: Supabase (PostgreSQL) with Row Level Security
-- **AI Model**: meta-llama/Meta-Llama-3-8B-Instruct (HF Token: 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)
+- **AI Model**: meta-llama/Meta-Llama-3-8B-Instruct
 - **NLP Models**:
   - Sentiment: cardiffnlp/twitter-roberta-base-sentiment-latest
   - Embeddings: sentence-transformers/all-MiniLM-L6-v2
